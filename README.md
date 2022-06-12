@@ -22,7 +22,6 @@
    - [Home Directory Backup Script](#home-directory-backup)
    - [Disk Usage Alert Script](#disk-usage-alerts)
 3. [Usage](#gear-usage)
-   - [Automated](#automated)
    - [Manual](#manual)
 4. [Technologies](#computer-technologies)
 5. [Directories](#open_file_folder-directories)
