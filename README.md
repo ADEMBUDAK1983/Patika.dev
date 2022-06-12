@@ -68,7 +68,7 @@ This repository undertakes two projects developed under the [Patika.dev][@patika
 > - Linux :heart:
 > - Bash Scripting
 > - Git SCM
-> - Oracle VM VirtualBox
+> - Docker
 
 
 ### :open_file_folder: **Directories**
@@ -85,7 +85,7 @@ Last Run Log             : /tmp/scripts
 [#linux]: https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black
 [#bash]: https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=GNU%20Bash&logoColor=white
 [#git]: https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white
-[#virtualbox]: https://img.shields.io/badge/VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white
+[#docker]: https://img.shields.io/badge/VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white
 
 
 <!-- URL Index -->
